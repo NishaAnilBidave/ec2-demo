@@ -1,1 +1,1 @@
-# ec2-demo
+# ec2-lab
